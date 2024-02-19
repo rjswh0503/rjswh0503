@@ -25,7 +25,9 @@
 ## 📚 STACKS 📚
 
 <div style="display:flex; flex-direction:row;>
-    <p>backend</p>
+    <div>
+    <h3>backend</h3>
+    </div>
 <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
