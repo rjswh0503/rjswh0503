@@ -9,6 +9,7 @@
     
     
 [![rjswh0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjswh0503&include_all_commits=true&theme=gruvbox_light&hide_border=false&count_private=true)](https://github.com/rjswh0503/github-readme-stats)
+
     
     
     
@@ -26,7 +27,7 @@
 
 ## 💻 DEV's log 💻
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://github.com/loosie/github-readme-tistory-card)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=drocus12&postId=17)](https://github.com/loosie/github-readme-tistory-card)
 
 ## 📚 STACKS 📚
 <div style="display:flex; flex-direction:row;">
