@@ -29,7 +29,7 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://github.com/drocus12/github-readme-tistory-card)<br>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=drocus12&theme=default)](https://drocus12.tistory.com/)
-</div><br>
+<br>
 
 ## 📚 STACKS 📚
 <div style="display:flex; flex-direction:row;">
