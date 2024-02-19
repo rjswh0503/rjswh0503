@@ -12,7 +12,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjswh0503&repo=github-readme-stats)](https://github.com/rjswh0503/github-readme-stats)
+
     
     
     
