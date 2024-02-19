@@ -40,7 +40,14 @@
 <div>
     <p>Database<p>
 </div>
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
+<div>
+    <p>Development Tools<p>
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"><br>
+        
+</div>
+
+
 
 
 </div>
