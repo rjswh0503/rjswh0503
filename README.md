@@ -31,7 +31,7 @@
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=drocus12&theme=default)](https://drocus12.tistory.com/)
+api?name=drocus12&theme=default)]https://drocus12.tistory.com
 </div><br>
 
 ## 📚 STACKS 📚
