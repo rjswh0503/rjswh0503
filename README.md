@@ -25,11 +25,18 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-        <a href="[https://drocus12.tistory.com]">
+    <a href="https://velog.io/@bi-sz">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://li-yo.tistory.com">
         <img src="https://img.shields.io/badge/
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-</div>
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=rjswh0503&theme=default)](https://drocus12.tistory.com/)
+</div><br>
 
 ## 📚 STACKS 📚
 <div style="display:flex; flex-direction:row;">
