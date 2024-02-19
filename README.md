@@ -1,15 +1,19 @@
 <div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=Welcome%20to%20rjswh0503's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180&desc=)
-    
+
+
+<div align=center>
+    <p>
+        "코딩은 끝없는 여행이자, 끊임없는 도전입니다. 새로운 기술과 언어를 배우며, 코드의 세계에서 창조적으로 노래하고 싶습니다. 신입 개발자로서 늘 새로운 것을 배우고, 열심히 노력하여 성장하는 개발자가 되겠습니다. 코드의 매력과 무한한 가능성에 푹 빠져, 항상 앞으로 나아가는 자세로 세상을 만들어 나가겠습니다."
+    </p>
+</div>
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frjswh0503&count_bg=%2379C83D&title_bg=%23FEA92A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
-    
-<div align=center>
-    <p>안녕하세요.</p>
-</div>
-    
-    
+
 [![rjswh0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjswh0503&include_all_commits=true&theme=gruvbox_light&hide_border=false&count_private=true)](https://github.com/rjswh0503/github-readme-stats)
 
 
