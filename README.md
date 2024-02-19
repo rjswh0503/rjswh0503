@@ -25,7 +25,7 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-        <a href="[https://drocus12.tistory.com](https://drocus12.tistory.com/)">
+        <a href="[https://drocus12.tistory.com]">
         <img src="https://img.shields.io/badge/
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
