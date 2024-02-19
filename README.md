@@ -21,6 +21,17 @@
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
         </a>
 </div><br>
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+<a href="https://drocus12.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+
+</div>
+
+
     
 ## 📚 STACKS 📚
 <div style="display:flex; flex-direction:row;">
