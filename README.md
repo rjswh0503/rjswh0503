@@ -28,7 +28,8 @@
 <!-- Backend -->
 <p><strong>Backend</strong></p>
 <div>
-    <img src="file:///Users/shinjaeheon/Desktop/svg-resized/eclipse.svg">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+
 </div>
 
 
