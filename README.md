@@ -27,6 +27,8 @@
 <div style="display:flex; flex-direction:row;>
 <!-- Backend -->
 <p><strong>Backend</strong></p>
+<div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    
+</div>
 
+</div>
