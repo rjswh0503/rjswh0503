@@ -13,6 +13,7 @@
     
     
  ## 📞 Contact 📞
+ 
 <div style="display:flex; flex-direction:row;">
         <a href="rjswh1234@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -25,17 +26,12 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
     <a href="https://li-yo.tistory.com">
         <img src="https://img.shields.io/badge/
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=rjswh0503&theme=default)](https://drocus12.tistory.com/)
+api?name=drocus12&theme=default)](https://drocus12.tistory.com/)
 </div><br>
 
 ## 📚 STACKS 📚
