@@ -22,7 +22,7 @@
     </a>
 </div><br>
 
-## <div align=center><h1>📚 STACKS</h1></div>
+## 📚 STACKS 📚
 
 <div style="display:flex; flex-direction:row;>
 
