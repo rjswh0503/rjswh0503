@@ -26,8 +26,10 @@
 
 
 ## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://github.com/loosie/github-readme-tistory-card)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=drocus12&postId=17)](https://github.com/loosie/github-readme-tistory-card)
+</div>
 
 ## 📚 STACKS 📚
 <div style="display:flex; flex-direction:row;">
