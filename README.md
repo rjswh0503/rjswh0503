@@ -17,8 +17,11 @@
     <a href="rjswh1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="rjswh1234@naver.com">
+    <a href="rjswh0503@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
+    <a href="rjswh0503@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo-03C75A?style=for-the-badge&logo=Yahoo&logoColor=white"> 
     </a>
 </div>
 ## 💻 DEV's log 💻
