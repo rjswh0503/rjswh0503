@@ -28,7 +28,7 @@
 ## 💻 DEV's log 💻
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://github.com/drocus12/github-readme-tistory-card)<br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={drocus12}&postId={17})](https://github.com/rjswh0503/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={drocus12}&postId={17})](https://drocus12.tistory.com/17)
 <br>
 
 ## 📚 STACKS 📚
