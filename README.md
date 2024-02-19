@@ -24,8 +24,15 @@
 
 ## 💻 DEV's log 💻
 
+<div style="display:flex; flex-direction:row;>
+<!-- Backend -->
+<p><strong>Backend</strong></p>
+<div>
+    <img src="file:///Users/shinjaeheon/Desktop/svg-resized/eclipse.svg">
+</div>
 
 
 
 
+</div>
 </div>
